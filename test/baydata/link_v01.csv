@@ -1,6 +1,3 @@
-"concat( '{""linkID"":""L' , a.nodeID, '"",""fromNode"":""',  a.nodeID, '"",""toNode"":""', b.nodeID, 
-                 '"",""area"":""',  b.area, '"",""bay"":""',  b.bay, '"",""length"":', ROUND( SQRT( power((b.Xaxis - a.Xaxis),2) + power((b.Yaxis - a.Yaxis), 2) ), 0),
-      "
 "{""linkID"":""L0000001"",""fromNode"":""0000001"",""toNode"":""0000002"",""area"":""17"",""bay"":""00"",""length"":10,""speed"":5400,""updateTime"":0}"
 "{""linkID"":""L0000002"",""fromNode"":""0000002"",""toNode"":""0000003"",""area"":""17"",""bay"":""00"",""length"":10,""speed"":5400,""updateTime"":0}"
 "{""linkID"":""L0000003"",""fromNode"":""0000003"",""toNode"":""0000004"",""area"":""17"",""bay"":""00"",""length"":10,""speed"":5400,""updateTime"":0}"
